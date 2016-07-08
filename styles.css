@@ -8,4 +8,6 @@ html, body {
     align-items: center;
     align-content: stretch;
     justify-content: center;
+
+    font-family: 'Rock Salt', cursive;
 }
